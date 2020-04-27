@@ -811,4 +811,4 @@ This section contains libraries that take an experimental or unorthodox approach
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Robert Felker](https://www.linkedin.com/in/robert-felker/) has waived all copyright and related or neighboring rights to this work.
+TO the extent possible under law, [Robert Felker](https://www.linkedin.com/in/robert-felker/) has waived all copyright and related or neighboring rights to this work.
